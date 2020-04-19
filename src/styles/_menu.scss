@@ -1,0 +1,22 @@
+div#menu {
+
+}
+
+div#menu ul{
+  
+}
+
+div#menu ul li {
+  list-style-type: none;
+  display: inline;
+}
+
+div#menu ul li a {
+  display: inline-block;
+  margin-right: 25px;
+  cursor: pointer;
+}
+
+div#menu ul li a:hover {
+  color: $vue-color;
+}
